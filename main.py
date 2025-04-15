@@ -14,7 +14,6 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
 
 import os 
-os.chdir(r"C:\Python\100 days course\Day 71")
 
 '''
 Make sure the required packages are installed: 
