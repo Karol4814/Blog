@@ -22,7 +22,7 @@ Make sure the required packages are installed:
 Open the Terminal in PyCharm (bottom left). 
 
 On Windows type:
-python -m pip install -r requirements.txt 
+python -m pip install -r requirementsaaaaaaaaaaaa.txt 
 
 On MacOS type:
 pip3 install -r requirements.txt
